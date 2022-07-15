@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Navid, i have completed my M.tech in Robotics in 2020, 
      I have worked with robotics company as a robotic intern. I have 1 years of working experince  experience in ROS  
 - 👀 I’m interested in Robotics area 
-- 🌱 I’m currently exploring Advance ROS (AI,VI Deep learning and computer vision)
-- 💞️ I’m looking to collaborate on mobile robots... 
+- 🌱 Hands on experience in ROS framework and other AI projects
+- 💞️ I’m looking into robotics core job... 
 
 - 📫 Email id: navidmulla60@gmail.com
 
