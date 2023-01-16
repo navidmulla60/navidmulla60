@@ -1,3 +1,5 @@
+- NOTE: project worked in the comapnies have not been added to my github 
+- 
 - 👋 Hi, I’m Navid, i have completed my M.tech in Robotics in 2020, 
      I have worked with robotics company as a robotic intern. I have 1 years of working experince  experience in ROS  
 - 👀 I’m interested in Robotics area 
