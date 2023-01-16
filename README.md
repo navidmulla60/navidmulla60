@@ -7,6 +7,14 @@
 - 📫 Email id: navidmulla60@gmail.com
 
 My work samples( still updating more ) :
+updates year: 2023
+  - joined IngenDynamics as Teach Lead
+  - Developed React webpages,Next JS,  Node JS for backend (REST API )MySQL database Management,
+  - Developed Django python API backend for another Project
+updates year: 2021
+  - joined Mowito As Robotics Engineer, worked as robotics backend and front end developer, 
+  - created APIs and Android application.
+updates year: 2020
 I have recenty created a repository of my work named as mobilerobot_ws
   - you can see in this work I have created CAD model from scratch
   - added all controller and wrote all YAML files manually 
