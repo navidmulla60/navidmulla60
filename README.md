@@ -11,8 +11,10 @@
 My work samples( still updating more ) :
 updates year: 2023
   - joined IngenDynamics as Teach Lead
-  - Developed React webpages,Next JS,  Node JS for backend (REST API )MySQL database Management,
+  - Developed **React webpages**,Next JS,  Node JS for backend (REST API ), **Django** MySQL database Management,
   - Developed Django python API backend for another Project
+  - **Navigation Stack**, script fro multi-point navigations.
+  - serverside handling AWS, s3 bucket
 updates year: 2021
   - joined Mowito As Robotics Engineer, worked as robotics backend and front end developer, 
   - created APIs and Android application.
@@ -27,7 +29,7 @@ I have recenty created a repository of my work named as mobilerobot_ws
   
   - also i have just implemented YOLO object recognition ( i have followed a youtube tutorial to do this... So still learning )
 
-And also i am tring to explore animatronics as well...
+And also i am tring to explore **animatronics** as well...
 
 
 <!---
