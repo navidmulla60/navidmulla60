@@ -1,7 +1,7 @@
 - NOTE: project worked in the comapnies have not been added to my github 
 - 
 - 👋 Hi, I’m Navid, i have completed my M.tech in Robotics in 2020, 
-     I have worked with robotics company as a robotic intern. I have 1 years of working experince  experience in ROS  
+     I have worked with robotics company as a robotic intern. I have 3 years of working experince  experience in ROS  
 - 👀 I’m interested in Robotics area 
 - 🌱 Hands on experience in ROS framework and other AI projects
 - 💞️ I’m looking into robotics core job... 
@@ -16,7 +16,7 @@ updates year: 2023
   - **Navigation Stack**, script fro multi-point navigations.
   - serverside handling AWS, s3 bucket
 updates year: 2021
-  - joined Mowito As Robotics Engineer, worked as robotics backend and front end developer, 
+  - joined Mowito As Robotics Engineer, worked as **robotics backend ROS developer** and front end developer, 
   - created APIs and Android application.
 updates year: 2020
 I have recenty created a repository of my work named as mobilerobot_ws
