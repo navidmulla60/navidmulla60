@@ -1,38 +1,51 @@
-- NOTE: project worked in the comapnies have not been added to my github 
-- 
-- 👋 Hi, I’m Navid, i have completed my M.tech in Robotics in 2020, 
-     I have worked with robotics company as a robotic intern. I have 3 years of working experince  experience in ROS  
-- 👀 I’m interested in Robotics area 
-- 🌱 Hands on experience in ROS framework and other AI projects
-- 💞️ I’m looking into robotics core job... 
+# Navid A. Mulla  
 
-- 📫 Email id: navidmulla60@gmail.com
+M.Tech in Robotics (2020) | Robotics Software Engineer | ROS2, MoveIt2, Navigation Stacks  
 
-My work samples( still updating more ) :
-updates year: 2023
-  - joined IngenDynamics as Teach Lead
-  - Developed **React webpages**,Next JS,  Node JS for backend (REST API ), **Django** MySQL database Management,
-  - Developed Django python API backend for another Project
-  - **Navigation Stack**, script fro multi-point navigations.
-  - serverside handling AWS, s3 bucket
-updates year: 2021
-  - joined Mowito As Robotics Engineer, worked as **robotics backend ROS developer** and front end developer, 
-  - created APIs and Android application.
-updates year: 2020
-I have recenty created a repository of my work named as mobilerobot_ws
-  - you can see in this work I have created CAD model from scratch
-  - added all controller and wrote all YAML files manually 
-  - and finally developed navigation stack for the robot.
-  
-  -after that i have created line following algorithm
-  -manually created a world with custmised line drawn on the ground floor
-  
-  - also i have just implemented YOLO object recognition ( i have followed a youtube tutorial to do this... So still learning )
+I specialize in building end-to-end robotics solutions: from CAD models and Gazebo simulations to ROS2 navigation stacks and real robot deployments.  
+Currently, I am developing a new Navigation Stack in ROS2. My earlier work in ROS1 (see [Sparky](https://github.com/navidmulla60/sparky)) demonstrates multi-package, modular robotics software design.  
 
-And also i am tring to explore **animatronics** as well...
+---
 
+## Key Expertise
+- ROS2 and MoveIt2: motion planning, dual-arm pick-and-place, Gazebo to real hardware deployment  
+- Navigation: custom Navigation Stacks (ROS1 and ROS2), multi-point navigation, localization with RTAB-Map  
+- Perception: RealSense camera integration, point cloud processing, YOLO object detection  
+- Software: Python, C++, Django, Node.js, REST APIs, FastAPI, AWS (S3, EC2)  
 
-<!---
-navidmulla60/navidmulla60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Featured Projects
+- [**mobile_robo_ws**](https://github.com/navidmulla60/mobile_robo_ws/tree/master/src)  
+  - Built a mobile robot workspace from scratch  
+  - CAD model and URDF/Xacro files  
+  - Manual YAML/controller configurations  
+  - Full Navigation Stack with Gazebo integration  
+  - Line-following algorithm with custom world  
+
+- [**sparky**](https://github.com/navidmulla60/sparky/tree/master/src)  
+  - Multi-package modular repository in ROS1  
+  - Demonstrates navigation stack architecture and strong ROS fundamentals  
+  - Early demonstration of my potential in navigation systems before transitioning fully to ROS2  
+
+---
+
+## Professional Experience
+- Renaissance (deployed at DRDO – CAIR)  
+  - Developed and deployed dual-arm manipulation projects using ROS2 and MoveIt2 in Gazebo and on real hardware  
+
+- InGen Dynamics (Aido Robot)  
+  - Tech Lead – improved system efficiency, developed robust communication architectures, and contributed to autonomous robot features  
+
+- Mowito Robotics  
+  - Robotics Engineer – created a custom navigation stack for AMRs, developed Android applications and backend APIs  
+
+---
+
+## Contact
+- Email: navidmulla60@gmail.com  
+- LinkedIn: [linkedin.com/in/navid-a-mulla](https://www.linkedin.com/in/navid-a-mulla)  
+
+---
+
+Passionate about bridging simulation and real-world robotics through ROS2, AI-driven perception, and advanced navigation stacks.  
